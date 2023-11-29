@@ -1,0 +1,31 @@
+
+
+Air Elemental = 2593
+Angel = 2064
+Deamon = 1644
+Drow = 962
+Dwarven = 748
+Earth Element = 2017
+Elven = 1169
+Fey = 2637
+Goblin = 1005
+Gremlin = 1001
+Hiryu = 100
+Imp = 1453
+Kirin = 2501
+Kitsune = 1161
+Orc = 558
+Rapter = 2212
+Ratman = 2213
+Ridgeback = 26
+TreeEnt = 2514
+Troll = 2579
+Wolven = 705
+
+
+
+
+
+
+
+
